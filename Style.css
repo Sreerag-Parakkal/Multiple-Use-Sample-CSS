@@ -1,0 +1,24 @@
+button{
+    background: green;
+    color: white;
+    
+}
+
+#para1{
+    color: red;
+
+}
+
+#para2{
+    color: green;
+}
+
+.content1{
+    color: blue;
+    background: yellow;
+}
+
+.content2{
+    color: chocolate;
+    background: lightcoral;
+}
